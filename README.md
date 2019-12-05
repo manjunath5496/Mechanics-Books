@@ -2,53 +2,66 @@
 
 <ul>
   
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(1).pdf" style="text-decoration:none;">Applied Deep Learning: A Case-Based Approach to Understanding Deep Neural Networks</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(1).pdf" style="text-decoration:none;">A Complete Course on Theoretical Physics: From Classical Mechanics to Advanced Quantum Statistics</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(2).pdf" style="text-decoration:none;">Convolutional Neural Networks in Visual Computing</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(2).pdf" style="text-decoration:none;">A Guide to Physics Problems: Part 2: Thermodynamics, Statistical Physics, and Quantum Mechanics</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(3).pdf" style="text-decoration:none;">Deep Learning and Convolutional Neural Networks for Medical Image Computing</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(4).pdf" style="text-decoration:none;">Deep Learning: Practical Neural Networks with Java</a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(5).pdf" style="text-decoration:none;">Design of Intelligent Systems Based on Fuzzy Logic, Neural Networks and Nature-Inspired Optimization</a></b></li>  
-      <li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(6).pdf" style="text-decoration:none;">Neural Networks and Learning Machines</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(3).pdf" style="text-decoration:none;">A history of mechanics</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(4).pdf" style="text-decoration:none;">Classical Mechanics</a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(5).pdf" style="text-decoration:none;">Classical Mechanics: Hamiltonian and Lagrangian Formalism</a></b></li>  
+      <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(6).pdf" style="text-decoration:none;">Mechanics: Volume 1 (Course of Theoretical Physics)</a></b></li>  
   
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(7).pdf" style="text-decoration:none;">Elements of Artificial Neural Networks</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(7).pdf" style="text-decoration:none;">Quantum Mechanics: Vol. 3 (Course of Theoretical Physics) </a></b></li>  
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(8).pdf" style="text-decoration:none;">FPGA Implementations of Neural Networks</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(8).pdf" style="text-decoration:none;">Fluid Mechanics: Volume 6 (Course of Theoretical Physics) </a></b></li>  
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(9).pdf" style="text-decoration:none;">Neural Network Systems Techniques and Applications</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(9).pdf" style="text-decoration:none;">Fluid Mechanics Demystified</a></b></li>  
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(10).pdf" style="text-decoration:none;"> Guide to Convolutional Neural Networks</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(10).pdf" style="text-decoration:none;"> Einstein's Dice and Schrödinger's Cat</a></b></li>  
 
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(11).pdf" style="text-decoration:none;">Introduction to Artificial Intelligence</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(11).pdf" style="text-decoration:none;">Elementary Textbook on Physics &minus; Volume 1</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(12).pdf" style="text-decoration:none;">Introduction to the Math of Neural Networks</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(12).pdf" style="text-decoration:none;">Fluid Mechanics</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(13).pdf" style="text-decoration:none;">Learn Keras for Deep Neural Networks: A Fast-Track Approach to Modern Deep Learning with Python</a></b></li>                         
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(14).pdf" style="text-decoration:none;">Neural Networks &minus; A Visual Introduction For Beginners </a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(15).pdf" style="text-decoration:none;">Neural Network Toolbox User's Guide</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(13).pdf" style="text-decoration:none;">Fundamentals of Physics</a></b></li>                         
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(14).pdf" style="text-decoration:none;">Handbook of Physics </a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(15).pdf" style="text-decoration:none;">Head First Physics</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(16).pdf" style="text-decoration:none;">Super Course In Physics For The IIT-JEE: Mechanics II </a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(17).pdf" style="text-decoration:none;">Mathematica for Theoretical Physics</a></b></li>  
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(18).pdf" style="text-decoration:none;">Mechanics</a></b></li>  
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(19).pdf" style="text-decoration:none;">Probing the Meaning of Quantum Mechanics: Superpositions, Dynamics, Semantics and Identity  </a></b></li>  
+     <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(20).pdf" style="text-decoration:none;">Quantum Mechanics: A Modern and Concise Introductory Course</a></b></li>  
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(17).pdf" style="text-decoration:none;">Neural Networks and Statistical Learning</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(21).pdf" style="text-decoration:none;">Solved Problems in Classical Mechanics</a></b></li>  
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(18).pdf" style="text-decoration:none;">Neural Networks for Pattern Recognition</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(22).pdf" style="text-decoration:none;">The Feynman Lectures on Physics</a></b></li>  
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(19).pdf" style="text-decoration:none;">Neural Networks with R </a></b></li>  
-     <li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(20).pdf" style="text-decoration:none;">Neural Networks: Methodology and Applications</a></b></li>  
- 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(21).pdf" style="text-decoration:none;">Neural Networks and Deep Learning</a></b></li>  
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(23).pdf" style="text-decoration:none;">The Physics of Quantum Mechanics</a></b></li>  
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(22).pdf" style="text-decoration:none;">New Directions in Neural Networks</a></b></li>  
-
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(23).pdf" style="text-decoration:none;">TensorFlow in 1 Day: Make your own Neural Network</a></b></li>  
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Neural-Networks-Books/blob/master/nen(24).pdf" style="text-decoration:none;">The Application of Neural Networks in the Earth System Sciences</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(24).pdf" style="text-decoration:none;">The Theoretical Minimum: What You Need to Know to Start Doing Physics</a></b></li>  
 
 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(25).pdf" style="text-decoration:none;">Theoretical Physics 2: Analytical Mechanics</a></b></li>  
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(26).pdf" style="text-decoration:none;">Thermal Physics: Thermodynamics and Statistical Mechanics for Scientists and Engineers</a></b></li>  
 
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(27).pdf" style="text-decoration:none;">Understanding Physics for IIT JEE</a></b></li>  
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(28).pdf" style="text-decoration:none;">Methods of Celestial Mechanics</a></b></li>  
 
 
 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(29).pdf" style="text-decoration:none;">Physics Experiments</a></b></li>  
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(30).pdf" style="text-decoration:none;">QUANTUM MECHANICS: A Textbook for Undergraduates</a></b></li>  
+
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(31).pdf" style="text-decoration:none;">The Emerging Quantum: The Physics Behind Quantum Mechanics</a></b></li>  
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(32).pdf" style="text-decoration:none;">The Quantum Mechanics Solver: How to Apply Quantum Theory to Modern Physics</a></b></li>  
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Mechanics-Books/blob/master/mh(33).pdf" style="text-decoration:none;">Theoretical Mechanics</a></b></li>
 
 
 
